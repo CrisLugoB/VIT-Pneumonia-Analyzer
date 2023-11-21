@@ -15,7 +15,7 @@ This repository contains a Pneumonia Detection project using a Vision Transforme
 - Git
 
 ### Setup
-1. **Clone the Repository:**
+1. **Clone the Repository:** `git clone https://github.com/CrisLugoB/VIT-Pneumonia-Analyzer`
 2. **Navigate to the Project Directory:**
 3. **Build the Docker Container:** `docker build -t vit-pneumonia .`
 4. **Run the Docker Container:** `docker run -p 8000:8000 pneumonia-container`
