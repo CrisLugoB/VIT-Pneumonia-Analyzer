@@ -1,4 +1,4 @@
 Flask
-keras
 tensorflow
+keras
 Flask-CORS
