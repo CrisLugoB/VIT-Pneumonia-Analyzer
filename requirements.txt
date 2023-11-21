@@ -1,4 +1,6 @@
 Flask
-tensorflow
 keras
+matplotlib
+tensorflow
 Flask-CORS
+Pillow
