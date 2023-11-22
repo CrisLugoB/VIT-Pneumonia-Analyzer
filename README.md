@@ -33,7 +33,8 @@ Contributions to the project are welcome! Please refer to the `CONTRIBUTING.md` 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-Special thanks to all contributors and the open-source community for their support and contributions to this project.
+Special thanks to all contributors in specifically, [Mendely Data](https://data.mendeley.com/datasets/rscbjbr9sj/2?__hstc=25856994.d78bc0b06c3134caf1effabfa82b3354.1698779814349.1698779814349.1698779814349.1&__hssc=25856994.1.1698779814350&__hsfp=1211446396) for providing the Chest X-Ray datataset, [Keras Team](https://github.com/keras-team/keras) for providing the necessary deep learning model and the open-source community for their support and contributions to this project.
+
 
 ## Contact
 For any queries, please contact [clugober@gmail.com].
